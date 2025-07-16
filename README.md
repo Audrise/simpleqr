@@ -29,7 +29,6 @@
     ```bash
     pip3 install pystyle pillow qrcode
     ```
-<br>
 
 ## Credits
 - Thanks to **[BillyTheGoat356](https://github.com/billythegoat356)** which provides the **[PyStyle](https://github.com/billythegoat356/pystyle.git)** module for very nice terminal styling and **[Hyperion](https://github.com/billythegoat356/hyperion.git)** for nice obfuscation tool
